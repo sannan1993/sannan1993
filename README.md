@@ -6,7 +6,7 @@ I am a Embedded System Engineer, Firmware Developer and IoT Enthusiast.
 - 👀 I’m interested in Microcontroller and ARM programming.
 - 🌱 I’m currently learning FreeRTOS for Stm32
 - 💞️ I’m looking to collaborate on C and Stm32 based projects.
-- 📫 How to reach me.. Email me at magamanny@gmail.com
+- 📫 How to reach me.. Email me at sannan1992@gmail.com
 # Skills
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,arduino,raspberrypi,git,matlab,py,ai,rust,docker,html,css,js,php&perline=7)](https://skillicons.dev)
 
