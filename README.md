@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=rect&height=90&section=header&text=Sannan_Ahmed&fontSize=50"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&size=25&width=435&lines=Embedded+System+Designer;Firmware+Developer)](https://git.io/typing-svg)
-# Hi, I’m Manny 👋
+# Hi, I’m Sannan 👋
 I am a Embedded System Engineer, Firmware Developer and IoT Enthusiast.
 - 👀 I’m interested in Microcontroller and ARM programming.
 - 🌱 I’m currently learning FreeRTOS for Stm32
